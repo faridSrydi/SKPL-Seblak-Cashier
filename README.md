@@ -24,7 +24,6 @@ Dokumen ini disusun sebagai rujukan teknis (spesifikasi desain perangkat lunak) 
 *   **Alur Kerja:** Detail operasional Kasir (POS).
 *   **Permodelan Visual:** *Use Case*, ERD, *UML Class Diagram*, dan *Activity Diagram*.
 
----
 
 ---
 
