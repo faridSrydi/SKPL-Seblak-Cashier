@@ -1,10 +1,30 @@
 # DOKUMENTASI SPESIFIKASI KEBUTUHAN PERANGKAT LUNAK (SKPL)
+**Sistem Informasi Point of Sale (POS) & Content Management System (CMS) Seblak Teh Mia**
 
-<img src="sources/logo.png" align="left" width="150" style="margin-right: 15px;">
+---
 
-**Sistem Informasi POS Seblak Teh Mia** adalah solusi digital untuk manajemen warung seblak yang mencakup pencatatan transaksi kasir, pengelolaan stok bahan baku, hingga laporan laba rugi otomatis. Dengan integrasi CMS, pemilik dapat memantau bisnis dari mana saja.
-<br clear="left"/>
-Dokumen ini disusun sebagai rujukan teknis (spesifikasi desain perangkat lunak) yang mengacu pada standar rekayasa perangkat lunak (*Software Engineering*). Dokumen ini memuat arsitektur sistem komprehensif mulai dari Kebutuhan Fungsional & Non-Fungsional, Spesifikasi Teknologi, detail alur kerja Kasir (POS), hingga permodelan sistem secara visual (*Use Case*, ERD, *UML Class Diagram*, dan *Activity Diagram*).
+<table border="0">
+  <tr>
+    <td width="160" valign="top">
+      <img src="sources/logo.jpg" width="150">
+    </td>
+    <td valign="top">
+      <strong>Sistem Informasi POS Seblak Teh Mia</strong> adalah solusi digital untuk manajemen warung seblak yang mencakup pencatatan transaksi kasir, pengelolaan stok bahan baku, hingga laporan laba rugi otomatis. Dengan integrasi CMS, pemilik dapat memantau bisnis dari mana saja.
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📋 Deskripsi Dokumen
+Dokumen ini disusun sebagai rujukan teknis (spesifikasi desain perangkat lunak) yang mengacu pada standar rekayasa perangkat lunak (*Software Engineering*). Dokumen ini memuat arsitektur sistem komprehensif yang mencakup:
+
+*   **Kebutuhan Sistem:** Fungsional & Non-Fungsional.
+*   **Spesifikasi Teknologi:** Stack yang digunakan dalam pengembangan.
+*   **Alur Kerja:** Detail operasional Kasir (POS).
+*   **Permodelan Visual:** *Use Case*, ERD, *UML Class Diagram*, dan *Activity Diagram*.
+
+---
 
 ---
 
